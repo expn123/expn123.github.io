@@ -23,9 +23,9 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Zongbo Li"
-  pronouns         :  "he/him"  
+  pronouns         : "he/him"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earh"
+  location         : "Minneapolis, MN"
   employer         : "University of Minnesota"
   uri              : # URL
   email            : "li001932@umn.edu" 
