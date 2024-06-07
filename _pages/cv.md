@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Health Decision Science, University of Minnesota, 2025 (expected)
+* MPH. in Epidemiology of Microbial Diseases, Yale University, 2019
+* BS. in Laboratory Medicine, Peking University Health Science Center, 2012
 
 Work experience
 ======
@@ -22,8 +22,8 @@ Work experience
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
+* 2020 - 2024: Research Assistant
+  * University of Minnesota
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
 
