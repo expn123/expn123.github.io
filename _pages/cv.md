@@ -13,24 +13,25 @@ Education
 ======
 * PhD in Health Decision Science, University of Minnesota, 2025 (expected)
 * MPH. in Epidemiology of Microbial Diseases, Yale University, 2019
-* BS. in Laboratory Medicine, Peking University Health Science Center, 2012
+* BS. in Laboratory Medicine, Peking University Health Science Center, 2017
+* BA. in Economics, Peking University, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* 2020 - 2024: Research Assistant
+* 2023 - : Research Assistant
   * University of Minnesota
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Project: Prevention and Rescue Of Fentanyl and Other Opioid Overdoses Using Optimized Naloxone
+  * Supervisor: Xiao Zang
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022 - 2024: Research Assistant
+  * University of Minnesota
+  * Project: Integrated Network Models for HIV/STI Prevention Science
+  * Supervisor: Eva Enns, Samuel Jenness
+
+* 2020 - 2021: Research Assistant
+  * University of Minnesota
+  * Project: Modeling COVID-19 for Minnesota
+  * Supervisor: Eva Enns, Karen Kuntz
   
 Skills
 ======
@@ -59,6 +60,10 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Professional Services & Affiliation
 ======
-* Currently signed in to 43 different slack teams
+* Member, Society for Medical Decision Making (2020 - Present)
+* Career Development Committee, Society for Medical Decision Making (2022 - Present)
+* Faculty Search Committee, University of Minnesota (2022)
+* PhD Admission Working Group, University of Minnesota (2023)
+
